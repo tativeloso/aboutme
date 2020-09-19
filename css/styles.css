@@ -1,0 +1,188 @@
+#title{
+  background-color: #dae1e7;
+  color: #142850;
+}
+body{
+  color: #40514E;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin: 0;
+
+}
+h1{
+  color: #142850;
+  font-family: 'Courgette', cursive;
+  font-size: 6.25rem;
+  margin: 0 auto;
+  width: 50%;
+}
+h2 {
+  color: #142850;
+  font-family: 'Pridi', serif;
+  font-size: 1.75rem;
+  font-weight: normal;
+  margin: 10px auto 10px auto;
+}
+h3 {
+  color: #00909e;
+  font-family: 'Pridi', serif;
+  font-size: 1.5rem;
+  margin: 0;
+}
+a {
+  color: #27496d;
+}
+p {
+  margin: 0;
+}
+hr{
+  clear: both;
+  border-color: #00909e;
+  border-style: dotted none none;
+  border-width: 10px;
+  height: 0;
+  width: 5%;
+}
+.navbar{
+  background-image: none;
+  background-color: #142850;
+}
+.navbar-brand{
+  font-family: 'Courgette', cursive;
+  font-size:1.75rem;
+  margin-left: 20px;
+}
+.navagation-bar{
+  background-color: #142850;
+  color: #FFF;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.navagation-item{
+  font-weight: bold;
+  color: #FFF;
+  text-align: right;
+}
+.navagation-item:hover {
+  color: #dae1e7;
+}
+.custom-toggler {
+  color: #FFF;
+  font-size: 1.5rem;
+}
+.custom-toggler:hover {
+  color: #dae1e7;
+}
+.top-container {
+  padding-top: 200px;
+  position: relative;
+}
+.middle-container {
+  line-height: 1.5;
+}
+
+.middle-container h2 {
+  /* added when without navbar */
+  padding-bottom: 20px;
+}
+
+.bottom-container{
+  background-color: #142850;
+  color: #dae1e7;
+  padding: 10px;
+  line-height: 2;
+}
+
+.financeacc {
+  width: 5%;
+  display: inline-block;
+  margin-right: 50px;
+}
+.programming {
+  width: 5%;
+  display: inline-block;
+  margin-left: 50px;
+}
+.rio {
+  width: 80%;
+  padding-top: 150px;
+}
+.skill-row {
+  width: 50%;
+  margin: 20px auto 20px;
+  text-align: left;
+
+}
+.busskill{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.programmer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profilepic{
+  width: 20%;
+  padding-bottom: 20px;
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 100px;
+  /* margin: 50px auto 50px; */
+}
+
+.profile p {
+  text-align: left;
+  text-indent: 50px;
+}
+
+.skills {
+  margin: 100px auto 150px;
+  /* margin: 50px auto 50px; */
+}
+
+.skills h2 {
+  /* added when without navbar */
+  padding-bottom: 50px;
+
+}
+/* .contact-me {
+  width: 50%;
+  margin: 50px auto 50px;
+}
+.contact-message {
+  margin: 40px auto 60px;
+} */
+/* .btn {
+  background: #12B7C7;
+  background-image: -webkit-linear-gradient(top, #12B7C7, #16bac9);
+  background-image: -moz-linear-gradient(top, #12B7C7, #16bac9);
+  background-image: -ms-linear-gradient(top, #12B7C7, #16bac9);
+  background-image: -o-linear-gradient(top, #12B7C7, #16bac9);
+  background-image: linear-gradient(to bottom, #12B7C7, #16bac9);
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  color: #27496d;
+  font-family: 'Pridi', serif;
+  font-weight: 400;
+  font-size: 1.25rem;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #34cbd9;
+  background-image: -webkit-linear-gradient(top, #34cbd9, #1fc2d1);
+  background-image: -moz-linear-gradient(top, #34cbd9, #1fc2d1);
+  background-image: -ms-linear-gradient(top, #34cbd9, #1fc2d1);
+  background-image: -o-linear-gradient(top, #34cbd9, #1fc2d1);
+  background-image: linear-gradient(to bottom, #34cbd9, #1fc2d1);
+  text-decoration: none;
+} */
+.copyright {
+  font-size: 0.75rem;
+}
